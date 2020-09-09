@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: Master in Computer Application, 2011
+  - course: Master in Cyber law and Information Security, 2011
     institution: Indian Institute of Information Technology, Allahabad
     year: 2011
 
@@ -64,6 +64,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Neeraj joined NotSoSecure in 2019 and works with clients who operate in various business sectors, including banking and finance, e-commerce, media, and other organisations with large digital footprints. In his role, he is responsible for performing different types of Penetration Testing across multiple domains, including web applications, mobile applications and network infrastructures. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+This aspect of his role also involves being responsible for ensuring that client secured environments meet required standards. He brings to his work experience leading projects, managing communication with clients and providing them with a comprehensive report of recommendations to address the vulnerabilities found during security assessments.
